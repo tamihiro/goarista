@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tamihiro/goarista/test"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 	"github.com/prometheus/client_golang/prometheus"
+	"github.com/tamihiro/goarista/test"
 )
 
 func makeMetrics(cfg *Config, expValues map[source]float64, notification *pb.Notification,

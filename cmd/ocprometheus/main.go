@@ -13,10 +13,10 @@ import (
 	"strings"
 
 	"github.com/aristanetworks/glog"
-	"github.com/tamihiro/goarista/gnmi"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
+	"github.com/tamihiro/goarista/gnmi"
 )
 
 func main() {

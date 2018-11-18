@@ -12,10 +12,10 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/tamihiro/goarista/gnmi"
 	"github.com/tamihiro/goarista/kafka"
 	"github.com/tamihiro/goarista/kafka/openconfig"
 	"github.com/tamihiro/goarista/kafka/producer"
-	"github.com/tamihiro/goarista/gnmi"
 
 	"github.com/Shopify/sarama"
 	"github.com/aristanetworks/glog"

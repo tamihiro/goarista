@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tamihiro/goarista/test"
 	"github.com/influxdata/influxdb/client/v2"
+	"github.com/tamihiro/goarista/test"
 )
 
 func newPoint(t *testing.T, measurement string, tags map[string]string,

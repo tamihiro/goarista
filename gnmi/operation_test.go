@@ -10,9 +10,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/tamihiro/goarista/test"
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/any"
+	"github.com/tamihiro/goarista/test"
 
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 )

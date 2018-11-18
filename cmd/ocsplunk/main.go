@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"github.com/aristanetworks/glog"
-	"github.com/tamihiro/goarista/gnmi"
 	"github.com/aristanetworks/splunk-hec-go"
+	"github.com/tamihiro/goarista/gnmi"
 
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 )

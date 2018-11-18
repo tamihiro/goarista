@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/tamihiro/goarista/test"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
+	"github.com/tamihiro/goarista/test"
 )
 
 func TestParseValue(t *testing.T) { // Because parsing JSON sucks.
