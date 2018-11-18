@@ -10,7 +10,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/aristanetworks/goarista/value"
+	"github.com/tamihiro/goarista/value"
 )
 
 // Key represents the Key in the updates and deletes of the Notification

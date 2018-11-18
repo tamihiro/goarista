@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/aristanetworks/goarista/monitor/stats"
+	"github.com/tamihiro/goarista/monitor/stats"
 )
 
 func testJSON(h *stats.Histogram) error {

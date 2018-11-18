@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aristanetworks/goarista/dscp"
+	"github.com/tamihiro/goarista/dscp"
 )
 
 func TestDialTCPWithTOS(t *testing.T) {

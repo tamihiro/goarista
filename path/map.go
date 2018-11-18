@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/aristanetworks/goarista/key"
+	"github.com/tamihiro/goarista/key"
 )
 
 // Map associates paths to values. It allows wildcards. A Map

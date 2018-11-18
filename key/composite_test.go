@@ -7,8 +7,8 @@ package key_test
 import (
 	"testing"
 
-	. "github.com/aristanetworks/goarista/key"
-	"github.com/aristanetworks/goarista/test"
+	. "github.com/tamihiro/goarista/key"
+	"github.com/tamihiro/goarista/test"
 )
 
 type unhashable struct {

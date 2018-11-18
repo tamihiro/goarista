@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aristanetworks/goarista/monitor/stats"
+	"github.com/tamihiro/goarista/monitor/stats"
 )
 
 // LatencyHistogram contains the data needed to properly export itself to expvar

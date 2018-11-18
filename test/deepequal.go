@@ -9,8 +9,8 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/aristanetworks/goarista/areflect"
-	"github.com/aristanetworks/goarista/key"
+	"github.com/tamihiro/goarista/areflect"
+	"github.com/tamihiro/goarista/key"
 )
 
 var comparableType = reflect.TypeOf((*key.Comparable)(nil)).Elem()

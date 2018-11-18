@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aristanetworks/goarista/lanz"
-	pb "github.com/aristanetworks/goarista/lanz/proto"
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/lanz"
+	pb "github.com/tamihiro/goarista/lanz/proto"
+	"github.com/tamihiro/goarista/test"
 
 	"github.com/aristanetworks/glog"
 	"github.com/golang/protobuf/proto"

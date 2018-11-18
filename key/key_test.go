@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"testing"
 
-	. "github.com/aristanetworks/goarista/key"
-	"github.com/aristanetworks/goarista/test"
-	"github.com/aristanetworks/goarista/value"
+	. "github.com/tamihiro/goarista/key"
+	"github.com/tamihiro/goarista/test"
+	"github.com/tamihiro/goarista/value"
 )
 
 type compareMe struct {

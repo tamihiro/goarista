@@ -13,7 +13,7 @@ import (
 	"net"
 	"time"
 
-	pb "github.com/aristanetworks/goarista/lanz/proto"
+	pb "github.com/tamihiro/goarista/lanz/proto"
 
 	"github.com/aristanetworks/glog"
 	"github.com/golang/protobuf/proto"

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/test"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 	"github.com/prometheus/client_golang/prometheus"
 )

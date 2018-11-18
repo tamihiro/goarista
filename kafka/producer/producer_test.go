@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aristanetworks/goarista/kafka/openconfig"
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/kafka/openconfig"
+	"github.com/tamihiro/goarista/test"
 
 	"github.com/Shopify/sarama"
 	pb "github.com/openconfig/gnmi/proto/gnmi"

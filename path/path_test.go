@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/aristanetworks/goarista/key"
-	"github.com/aristanetworks/goarista/value"
+	"github.com/tamihiro/goarista/key"
+	"github.com/tamihiro/goarista/value"
 )
 
 func TestNew(t *testing.T) {

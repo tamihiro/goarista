@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/aristanetworks/goarista/openconfig"
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/openconfig"
+	"github.com/tamihiro/goarista/test"
 
 	pb "github.com/openconfig/reference/rpc/openconfig"
 )

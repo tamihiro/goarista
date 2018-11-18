@@ -7,7 +7,7 @@ package test
 import (
 	"testing"
 
-	"github.com/aristanetworks/goarista/key"
+	"github.com/tamihiro/goarista/key"
 )
 
 type builtinCompare struct {

@@ -13,7 +13,7 @@ import (
 	"net/http"
 	_ "net/http/pprof" // Go documentation recommended usage
 
-	"github.com/aristanetworks/goarista/netns"
+	"github.com/tamihiro/goarista/netns"
 
 	"github.com/aristanetworks/glog"
 )

@@ -10,7 +10,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/test"
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/any"
 

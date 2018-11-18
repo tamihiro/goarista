@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/aristanetworks/goarista/areflect"
+	"github.com/tamihiro/goarista/areflect"
 )
 
 func hashInterface(v interface{}) uintptr {

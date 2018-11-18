@@ -8,7 +8,7 @@ package path
 import (
 	"strings"
 
-	"github.com/aristanetworks/goarista/key"
+	"github.com/tamihiro/goarista/key"
 )
 
 // New constructs a path from a variable number of elements.

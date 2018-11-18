@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/aristanetworks/goarista/value"
+	"github.com/tamihiro/goarista/value"
 )
 
 // StringifyInterface transforms an arbitrary interface into its string

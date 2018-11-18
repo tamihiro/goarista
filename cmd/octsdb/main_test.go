@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/test"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 )
 

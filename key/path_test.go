@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/aristanetworks/goarista/key"
-	"github.com/aristanetworks/goarista/path"
+	"github.com/tamihiro/goarista/key"
+	"github.com/tamihiro/goarista/path"
 )
 
 func TestPath(t *testing.T) {

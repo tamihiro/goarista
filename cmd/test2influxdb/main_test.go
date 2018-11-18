@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/test"
 	"github.com/influxdata/influxdb/client/v2"
 )
 

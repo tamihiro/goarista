@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/aristanetworks/goarista/test"
+	"github.com/tamihiro/goarista/test"
 
 	"github.com/prometheus/client_golang/prometheus"
 )

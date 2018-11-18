@@ -16,7 +16,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/aristanetworks/goarista/netns"
+	"github.com/tamihiro/goarista/netns"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
